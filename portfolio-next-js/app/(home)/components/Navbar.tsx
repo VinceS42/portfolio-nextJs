@@ -33,7 +33,7 @@ export default function Navbar({ className }: { className?: string }) {
                             href={social.link}
                             key={index}
                             aria-label={social.label}
-                            
+                            target="_blank"
                         >
                             <Icon className="w-5 h-5 hover:scale-125 transition-all" />
                         </Link>
