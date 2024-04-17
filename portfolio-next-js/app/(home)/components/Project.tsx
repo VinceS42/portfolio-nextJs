@@ -43,21 +43,21 @@ export default function Project() {
             tech: [SiHtml5, SiCss3, SiJavascript],
             link: "https://vincent-portfolio.projets.garage404.com/",
             cover: "/old_portfolio/oldPorfolio1.png",
-            background: "bg-yellow-500",
+            background: "bg-indigo-500",
         },
         {
             title: "Luxury Service",
             tech: [SiHtml5, SiCss3, SiJavascript, SiSymfony],
             link: "https://vincent-luxury.projets.garage404.com/",
             cover: "/luxury/Luxury2.jpg",
-            background: "bg-indigo-500",
+            background: "bg-green-500",
         },
         {
             title: "Slide Animée",
             tech: [SiHtml5, SiCss3, SiJavascript],
             link: "https://vincent-slide-animated.projets.garage404.com/",
             cover: "/slide_animated/slide_animated1.png",
-            background: "bg-green-500",
+            background: "bg-indigo-500",
         },
     ];
     return (
