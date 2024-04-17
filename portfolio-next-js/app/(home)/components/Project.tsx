@@ -35,7 +35,7 @@ export default function Project() {
             title: "Projet BTS",
             tech: [SiReact, SiNextdotjs, SiSupabase, SiTailwindcss],
             link: "",
-            cover: "/projet_bts/no-picture.jpg",
+            cover: "/projet_bts/no-picture.png",
             background: "bg-green-500",
         },
         {
