@@ -11,11 +11,11 @@ export const metadata: Metadata = {
 
     title: " Portfolio FAYON Vincent",
     description:
-        "Basé sur Saint-Etienne, je suis un petit jeune développeur qui a découvert les joies et les plaisir de coder sur React et qui découvre NextJS!",
+        "Basé sur Saint-Etienne, je suis un jeune développeur qui a découvert les joies et les plaisir de coder sur React et qui découvre NextJS!",
     openGraph: {
         title: "Portfolio de FAYON Vincent",
         description:
-            "Basé sur Saint-Etienne, je suis un petit jeune développeur qui a découvert les joies et les plaisir de coder sur React et qui découvre NextJS!",
+            "Basé sur Saint-Etienne, je suis un jeune développeur qui a découvert les joies et les plaisir de coder sur React et qui découvre NextJS!",
         url: "https://portfolio-next-js-azure.vercel.app/",
         siteName: "FAYON Vincent",
         images: "/og.png",

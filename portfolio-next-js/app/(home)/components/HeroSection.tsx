@@ -15,7 +15,7 @@ export default function HeroSection() {
                 </h2>
                 <p className="md:w-96 text-lg text-gray-300">
                     {
-                        "Basé sur Saint-Etienne, je suis un petit jeune développeur qui a découvert les joies et les plaisir de coder sur React!"
+                        "Basé sur Saint-Etienne, je suis un jeune développeur qui a découvert les joies et les plaisir de coder sur React!"
                     }
                 </p>
                 <Link
