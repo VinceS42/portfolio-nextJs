@@ -7,18 +7,18 @@ import "./globals.css";
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    metadataBase: new URL("https://next-supabase-vote.vercel.app/"),
+    metadataBase: new URL("https://portfolio-next-qf0h4ugzq-vincentfas-projects.vercel.app/"),
 
-    title: "FAYON Vincent",
+    title: " Portfolio FAYON Vincent",
     description:
         "Basé sur Saint-Etienne, je suis un petit jeune développeur qui a découvert les joies et les plaisir de coder sur React et qui découvre NextJS!",
     openGraph: {
         title: "Portfolio de FAYON Vincent",
         description:
             "Basé sur Saint-Etienne, je suis un petit jeune développeur qui a découvert les joies et les plaisir de coder sur React et qui découvre NextJS!",
-        url: "https://next-supabase-vote.vercel.app/",
+        url: "https://portfolio-next-qf0h4ugzq-vincentfas-projects.vercel.app/",
         siteName: "FAYON Vincent",
-        images: "/logo.png",
+        images: "/og.png",
         type: "website",
     },
     keywords: [
