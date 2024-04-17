@@ -13,9 +13,9 @@ export default function HeroSection() {
                         {"Vincent Fayon à votre service !"}
                     </span>
                 </h2>
-                <p className="md:w-96 text-lg text-gray-300">
+                <p className="md:w-[650px] text-lg text-gray-300">
                     {
-                        "Basé sur Saint-Etienne, je suis un jeune développeur qui a découvert les joies et les plaisir de coder sur React!"
+                        "Basé à Saint-Étienne, je suis un jeune développeur passionné qui a découvert les joies et les plaisirs de coder sur React. Actuellement, je m'intéresse également de près à Next.js. Je suis enthousiaste à l'idée de continuer à développer mes compétences dans ce domaine passionnant !"
                     }
                 </p>
                 <Link
@@ -23,7 +23,6 @@ export default function HeroSection() {
                     className="inline-block"
                 >
                     <Title text="Contactez moi 📬" />
-                    
                 </Link>
             </div>
             <div className="relative pt-5 lg:pt-0">
