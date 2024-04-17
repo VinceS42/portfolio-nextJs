@@ -26,7 +26,6 @@ export default function Project() {
                 SiPrisma,
                 SiSupabase,
                 SiTailwindcss,
-                "Kinde",
             ],
             link: "https://clone-airbnb-rho.vercel.app/",
             cover: "/airbnb/airbnb.png",
@@ -55,7 +54,7 @@ export default function Project() {
         },
         {
             title: "Slide Animée",
-            tech: [SiHtml5, SiCss3, SiJavascript, "JavaScript"],
+            tech: [SiHtml5, SiCss3, SiJavascript],
             link: "https://vincent-slide-animated.projets.garage404.com/",
             cover: "/slide_animated/slide_animated1.png",
             background: "bg-green-500",
