@@ -40,7 +40,7 @@ export default function HeroSection() {
                 <div className="absolute bottom-5 sm:bottom-14 left-0 sm:-left-10">
                     <MovingBorderBtn
                         borderRadius="0.5rem"
-                        className="p-3 font-semibold "
+                        className="p-4 font-semibold disabled"
                     >
                         <p>📢 Disponible</p>
                     </MovingBorderBtn>
