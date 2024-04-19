@@ -18,9 +18,9 @@ export default function HeroSection() {
                     qui a découvert les joies et les plaisirs de coder sur
                     React.
                     <br />
-                    Actuellement, je m'intéresse également de près à Next.js.
+                    Actuellement, je m&aposintéresse également de près à Next.js.
                     <br />
-                    Je suis enthousiaste à l'idée de continuer à développer mes
+                    Je suis enthousiaste à l&aposidée de continuer à développer mes
                     compétences dans ce domaine passionnant !
                 </p>
                 <Link
