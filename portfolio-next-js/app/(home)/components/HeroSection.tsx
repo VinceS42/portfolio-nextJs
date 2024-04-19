@@ -18,10 +18,11 @@ export default function HeroSection() {
                     qui a découvert les joies et les plaisirs de coder sur
                     React.
                     <br />
-                    Actuellement, je m'intéresse également de près à Next.js.
+                    Actuellement, je m&apos;intéresse également de près à
+                    Next.js.
                     <br />
-                    Je suis enthousiaste à l'idée de continuer à développer mes
-                    compétences dans ce domaine passionnant !
+                    Je suis enthousiaste à l&apos;idée de continuer à développer
+                    mes compétences dans ce domaine passionnant !
                 </p>
                 <Link
                     href={"mailto:v.fayon.pro@gmail.com"}
