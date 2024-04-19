@@ -61,7 +61,7 @@ export default function Project() {
         },
     ];
     return (
-        <div className="py-10 p-5 sm:p-0">
+        <div className="py-10 p-5 sm:p-0 mb-11">
             <Title
                 text="Projets 🎨"
                 className="flex flex-col items-center justify-center rotate-6"
