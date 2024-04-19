@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import React from "react";
 import Title from "./Title";
@@ -10,6 +10,7 @@ import {
     SiMongodb,
     SiNextdotjs,
     SiNodedotjs,
+    SiPhp,
     SiReact,
     SiSupabase,
     SiTailwindcss,
@@ -26,8 +27,12 @@ export default function Skills() {
             Icon: SiNextdotjs,
         },
         {
-            text: "Javascript" ,
-            Icon: SiJavascript
+            text: "Javascript",
+            Icon: SiJavascript,
+        },
+        {
+            text: "PHP",
+            Icon: SiPhp,
         },
         {
             text: "Supabase",
