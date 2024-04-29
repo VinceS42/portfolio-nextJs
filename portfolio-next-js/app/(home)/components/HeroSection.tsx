@@ -24,12 +24,22 @@ export default function HeroSection() {
                     Je suis enthousiaste à l&apos;idée de continuer à développer
                     mes compétences dans ce domaine passionnant !
                 </p>
-                <Link
-                    href={"mailto:v.fayon.pro@gmail.com"}
-                    className="inline-block"
-                >
-                    <Title text="Contactez moi 📬" />
-                </Link>
+                <div className="flex justify-around">
+                    <Link
+                        href={"mailto:v.fayon.pro@gmail.com"}
+                        className="inline-block mr-5"
+                    >
+                        <Title text="Contactez moi 📬" />
+                    </Link>
+                    <Link
+                        download={true}
+                        href="/cv/CV_FAYON_Vincent.pdf"
+                        className="inline-block"
+                        target="_blank"
+                    >
+                        <Title text="Mon CV 📬" />
+                    </Link>
+                </div>
             </div>
             <div className="relative pt-5 lg:pt-0">
                 <div className="w-72 h-72 space-y-3 -rotate-[30deg]">
